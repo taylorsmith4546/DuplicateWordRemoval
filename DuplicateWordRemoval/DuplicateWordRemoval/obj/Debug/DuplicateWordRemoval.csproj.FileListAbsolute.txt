@@ -1,1 +1,6 @@
 C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.exe.config
+C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.exe
+C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.pdb
+C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.exe
+C:\Dev\Code Challenges\C#\DuplicateWordRemoval\DuplicateWordRemoval\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.pdb
